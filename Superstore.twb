@@ -3079,7 +3079,6 @@
         </edge>
         <edge name='right'>
           <strip size='160'>
-            <card mode='slider' param='[Parameters].[Parameter 2]' type='parameter' />
             <card mode='slider' param='[Parameters].[Parameter 1]' type='parameter' />
             <card pane-specification-id='0' param='[Sample - Superstore].[sum:Profit:qk]' type='color' />
           </strip>
